@@ -1,0 +1,12 @@
+{
+  "name": "dynamodb-console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": ["dynamodb"],
+  "author": "limbuster",
+  "license": "MIT"
+}
